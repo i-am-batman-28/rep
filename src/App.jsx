@@ -64,7 +64,7 @@ function App() {
 
   // Handle mask click - redirect to another website
   const handleMaskClick = () => {
-    window.location.href = 'https://www.coregames.com/games/d57268/eyes-wide-shut'
+    window.location.href = 'https://www.coregames.com/games/d57268/eyes-wide-shut?utm_source=copy&utm_medium=client'
   }
 
   return (
